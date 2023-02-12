@@ -1,8 +1,10 @@
+Please visit the link to view the visualization https://satgobi-g.github.io/Satgobi-g.io/Index.html
+
 # Creating 3d Data Visualization- D3 Scatter Plot by using A-Frame
 
 ### Introduction
 
-An all-purpose data visualization component for the [AFrame](https://aframe.io/) WebVR Framework.
+An all-purpose data visualization component for the [AFrame](https://aframe.io/) WebVR Framework. 
 
 ### Integrating D3 Visualization
 You must also include a link the [D3](https://d3js.org/) JavaScript data visualization framework.
