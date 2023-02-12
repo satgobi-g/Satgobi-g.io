@@ -1,0 +1,38 @@
+[
+ {
+  "Product": "Honda City",
+  "Qnty": 10,
+  "Sales": 7,
+  "City": "Chennai"
+ },
+ {
+  "Product": "Honda City",
+  "Qnty": 7,
+  "Sales": "5",
+  "City": "Coimbatore"
+ },
+ {
+  "Product": "Honda City",
+  "Qnty": 5,
+  "Sales": 3,
+  "City": "Trichy"
+ },
+ {
+  "Product": "Honda Civic",
+  "Qnty": 12,
+  "Sales": 10,
+  "City": "Chennai"
+ },
+ {
+  "Product": "Honda Civic",
+  "Qnty": 10,
+  "Sales": 8,
+  "City": "Coimbatore"
+ },
+ {
+  "Product": "Honda Civic",
+  "Qnty": 14,
+  "Sales": 13,
+  "City": "Trichy"
+ }
+]
